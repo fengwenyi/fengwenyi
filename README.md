@@ -1,1 +1,1 @@
-我是冯文议（Erwin Feng），Java Developer。这是我的个人网站，专注于程序设计与开发。开源项目：JavaLib、api-result。爱好编程、看电影、听音乐、旅行
+我是冯文议，软件开发工程师，专注于程序设计与开发。开源项目：JavaLib、api-result。喜欢看电影、听音乐。
